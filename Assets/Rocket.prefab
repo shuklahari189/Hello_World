@@ -264,7 +264,7 @@ MonoBehaviour:
   Explosion_P: {fileID: 6783553699453379023}
   Won_P: {fileID: 6783971256196146126}
   thrustValue: 10
-  rotateValue: 10
+  rotateValue: 5
   Thrust_S: {fileID: 8300000, guid: 61f167db3cda8624b90d4669a124d628, type: 3}
   Explosion_S: {fileID: 8300000, guid: 91b8727b37cbe7b48a46e545d4cc27fc, type: 3}
   Won_S: {fileID: 8300000, guid: f1139a5cbe71e384abd96cba0b96550b, type: 3}

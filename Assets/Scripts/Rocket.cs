@@ -19,8 +19,8 @@ public class Rocket : MonoBehaviour
     public ParticleSystem Explosion_P;
     public ParticleSystem Won_P;
 
-    public float thrustValue = 10f;
-    public float rotateValue = 10f;
+    public float thrustValue ;
+    public float rotateValue ;
 
     public AudioClip Thrust_S;
     public AudioClip Explosion_S;
